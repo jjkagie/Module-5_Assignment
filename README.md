@@ -4,3 +4,7 @@ This respository is intended to create a calculator which is wrong every once in
 as to create massive confusion in the user.
 
 It's funny, I swear.
+
+#### Eamon Cates contribution ####
+
+I can add the random element :^)
